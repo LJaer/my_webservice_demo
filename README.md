@@ -1,1 +1,2 @@
 #mywstest
+通过spring JaxWsPortProxyFactoryBean调用webservice接口
